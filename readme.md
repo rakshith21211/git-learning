@@ -14,7 +14,7 @@ This repository was created to practice and understand Git and GitHub workflows 
 
 \- Cloning repositories locally
 
-\- Creating and switching branches
+\- Creating and switching Git branches for feature development
 
 \- Making and committing changes
 
@@ -37,6 +37,4 @@ This repository was created to practice and understand Git and GitHub workflows 
 
 
 The purpose of this repository is to gain practical experience with the Git workflow used in real software development projects. Rather than focusing only on theory, each concept is explored through hands-on exercises and examples.
-
-
 
