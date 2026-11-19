@@ -14,7 +14,7 @@ This repository was created to practice and understand Git and GitHub workflows 
 
 \- Cloning repositories locally
 
-\- Creating, switching, and managing Git branches
+\- Creating, switching, and managing Git branches for feature development
 
 \- Making and committing changes
 
