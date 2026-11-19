@@ -40,5 +40,3 @@ The purpose of this repository is to gain practical experience with the Git work
 
 
 
-
-
